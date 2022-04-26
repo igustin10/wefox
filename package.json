@@ -30,7 +30,7 @@
     "test": "jest --watchAll"
   },
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "keywords": [],
   "author": "",
