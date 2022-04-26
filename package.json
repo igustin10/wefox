@@ -31,15 +31,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igustin10/wefoxproject.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/igustin10/wefoxproject/issues"
-  },
-  "homepage": "https://github.com/igustin10/wefoxproject#readme",
   "devDependencies": {
     "jest": "^28.0.0",
     "supertest": "^6.2.2"
